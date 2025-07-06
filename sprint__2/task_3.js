@@ -1,9 +1,11 @@
-// Please, fill in missed lines of code.
-// Product constructor should provide a generation of unique product id within the application no matter how many products are created.
-// Distributor can store information about products in its products property and has an ability to add and remove a product.
-// addProduct adds a new property to products with name of product id and value - product name.
-// removeProduct removes a property with specified id from products
-// Please, use Symbol data type.
+/* 
+Please, fill in missed lines of code.
+Product constructor should provide a generation of unique product id within the application no matter how many products are created.
+Distributor can store information about products in its products property and has an ability to add and remove a product.
+addProduct adds a new property to products with name of product id and value - product name.
+removeProduct removes a property with specified id from products
+Please, use Symbol data type.
+*/
 
 
 

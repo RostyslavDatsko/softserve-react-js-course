@@ -1,15 +1,15 @@
-// The function takes any number of strings and returns the sum of their lengths.
+/* 
+The function takes any number of strings and returns the sum of their lengths.
 
-// Example:
+Example:
 
+sumOfLen('hello', 'hi'); // 7
+sumOfLen('hi'); // 2
+sumOfLen(); // 0
+sumOfLen('hello', 'hi', 'my name', 'is'); // 16
 
-// console.log(sumOfLen('hello', 'hi')); //7
-// console.log(sumOfLen('hi')); //2
-// console.log(sumOfLen()); //0
-// console.log(sumOfLen('hello', 'hi', 'my name', 'is')); //16
-
-// * For correct passing of all tests don't use console.log() method in your code.
-
+* For correct passing of all tests don't use console.log() method in your code.
+*/
 
 
 const sumOfLen = (...strings) => {

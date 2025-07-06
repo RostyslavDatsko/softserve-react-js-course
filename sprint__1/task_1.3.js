@@ -1,11 +1,13 @@
-// Find the maximum interval between two consecutive arguments.
+/* 
+Find the maximum interval between two consecutive arguments.
 
-// Example:
+Example:
 
-// maxInterv(3, 5, 2, 7); //5
-// maxInterv(3, 5, 2, 7, 11, 0, -2); //11
-// maxInterv(3, 5); //2
-// maxInterv(3); //0
+maxInterv(3, 5, 2, 7); // 5
+maxInterv(3, 5, 2, 7, 11, 0, -2); // 11
+maxInterv(3, 5); // 2
+maxInterv(3); // 0
+*/
 
 
 const maxInterv = (...arr) => {
